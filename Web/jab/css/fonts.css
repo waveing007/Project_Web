@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'sov_thanamasregular';
+    src: url('/js/fonts/sov_thanamas-webfont.woff2') format('woff2'),
+         url('/js/fonts/sov_thanamas-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'sov_thanamasbold';
+    src: url('/js/fonts/sov_thanamas-bold-webfont.woff2') format('woff2'),
+         url('/js/fonts/sov_thanamas-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'crimson_skyline_demoregular';
+    src: url('/js/fonts/crimson_skyline_demo-webfont.woff2') format('woff2'),
+         url('/js/fonts/crimson_skyline_demo-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+@font-face {
+    font-family: 'Font Awesome 5 Free';
+    font-style: normal;
+    font-weight: 400;
+    font-display: auto;
+    src: url("/js/fonts/fa-regular-400.eot");
+    src: url("/js/fonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+    url("/js/fonts/fa-regular-400.woff2") format("woff2"), 
+    url("/js/fonts/fa-regular-400.woff") format("woff"), 
+    url("/js/fonts/fa-regular-400.ttf") format("truetype"), 
+    url("/js/fonts/fa-regular-400.svg") format("svg"); }
+  
+  .far {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400; }
+  
+
