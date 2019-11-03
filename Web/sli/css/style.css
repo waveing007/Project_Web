@@ -37,7 +37,7 @@ Import Google Fonts
 	
 body {
 	margin: 0px;
-	font-family: "crimson_skyline_demoregular", Sans-serif;
+	font-family: "Open Sans", Sans-serif;
 }
 
 h1,
@@ -48,16 +48,16 @@ h5,
 h6 {
 	font-weight: 300;
 	letter-spacing: 0.4px;
-	font-family: "crimson_skyline_demoregular", Sans-serif;
+	font-family: "Open Sans", Sans-serif;
 	color: #232323;
 }
 
 p {
-	font-family: 'uid_salmon_2019regular', sans-serif;
-	font-size: 33px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
 	font-weight: 300;
-	line-height: 35px;
-	letter-spacing: 1.0px;
+	line-height: 23px;
+	letter-spacing: 0.2px;
 	color: #797979;
 }
 
@@ -92,30 +92,20 @@ ul {
 	padding-top: 10px;	
 }
 
-.wave{
-	list-style: none;
-    padding-bottom: 10px;
-    font-family: 'uid_salmon_2019regular', sans-serif;
-    font-size: 30px;
-    font-weight: 300;
-    line-height: 23px;
-    letter-spacing: 1px;
-    color: #797979;
 
-}
 ul li {
     list-style: none;
     padding-bottom: 10px;
-    font-family: 'uid_salmon_2019regular', sans-serif;
-    font-size: 25px;
-    font-weight: 300;
+    font-family: 'FontAwesome', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
     line-height: 23px;
     letter-spacing: 1px;
     color: #797979;
 }
 
 section ul li:before {
-	font-family: FontAwesome;
+	font-family: "FontAwesome";
 	font-weight: normal;
 	font-style: normal;
 	display: inline-block;
@@ -169,7 +159,7 @@ section ul li:before {
 	background-color: #fed136
 }
 .navbar-default .nav li a {
-	font-family: "crimson_skyline_demoregular",sans-serif;
+	font-family: "Roboto",sans-serif;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 1px;
@@ -225,7 +215,7 @@ section ul li:before {
 --------------------*/
 
 header {
-	background-image: url(/images/home1.jpg);
+	background-image: url(/images/home2.jpg);
 	background-repeat: none;
 	background-attachment: scroll;
 	background-position: center center;
@@ -252,7 +242,7 @@ header .intro-text .intro-lead-in {
 	display: inline-block;
 	margin-bottom: 25px;
 	padding: 4px 20px;
-	font-family: "crimson_skyline_demoregular",sans-serif;
+	font-family: "Open Sans",sans-serif;
 	font-size: 19px;
 	color:red;
 	font-weight: 300;
@@ -640,7 +630,7 @@ figure.effect-bubba:hover p {
 }
 
 .team-item p {
-    font-size: 24px;
+    font-size: 13px;
     font-weight: 400;
     color: #292929;
     padding: 5px 10px 20px 10px;

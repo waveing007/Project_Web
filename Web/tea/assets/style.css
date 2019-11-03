@@ -28,12 +28,12 @@
 
 
 .font_sale{
-  font-family:"uid_salmon_2019regular",sans-serif;
+  font-family:"Prata",sans-serif;
 }
 
 .font_story{
-  font-size: 30px;
-  font-family:"uid_salmon_2019regular",sans-serif;
+  font-size: 15px;
+  font-family:"Prata",sans-serif;
   text-align: left;
   
 }
@@ -43,7 +43,7 @@
 }
 body {
   background-color: #ffffff;
-  font-family: "crimson_skyline_demoregular", serif;
+  font-family: "Lato", serif;
   color: #333333;
   font-size: 15px;
   overflow-x: hidden;
@@ -73,7 +73,7 @@ a:focus {
 }
 
 h4{
-  font-family: "uid_salmon_2019regular", sans-serif;
+  font-family: "Prata", sans-serif;
 }
 
 h1, 
@@ -82,7 +82,7 @@ h3,
  
 h5, 
 h6 {
-  font-family: "crimson_skyline_demoregular", sans-serif;
+  font-family: "Tangerine", sans-serif;
 }
 
 h2 {
@@ -211,8 +211,8 @@ img {
 }
 
 .mu-main-navbar .mu-main-nav {
-  font-family: "crimson_skyline_demoregular", sans-serif;
-  font-size: 18px;
+  font-family: "Roboto Slab", sans-serif;
+  font-size: 13px;
 }
 
 .mu-main-navbar .mu-main-nav li a {
@@ -642,11 +642,11 @@ img {
 }
 
 .mu-restaurant-menu li a {
-  font-family: "uid_salmon_2019regular", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 18px;
   border-radius: 0;
   color: #fff;
-  font-size: 30px;
+  font-size: 18px;
   margin: 0 15px;
   -webkit-transition: all 0.5s;
   -moz-transition: all 0.5s;
@@ -710,7 +710,7 @@ img {
 }
 
 .mu-menu-item-nav li .media .media-body .media-heading {
-  font-size: 35px;
+  font-size: 30px;
   margin-bottom: 10px;
 }
 
@@ -730,7 +730,7 @@ img {
 
 .mu-menu-item-nav li .media .media-body p {
   margin-top: 5px;
-  font-size: 25px;
+  font-size: 14px;
 }
 
 /*==================
@@ -1561,8 +1561,8 @@ RESERVATION SECTION
   .mu-main-navbar .mu-main-nav li a {
     padding-left: 5px;
     padding-right: 5px;
-    font-size: 18px;
-    font-family: "crimson_skyline_demoregular";
+    font-size: 13px;
+    font-family: "Roboto Slab";
   }
 
   .mu-top-slider-content .mu-reservation-btn {
